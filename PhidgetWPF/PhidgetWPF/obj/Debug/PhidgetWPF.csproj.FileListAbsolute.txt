@@ -1,0 +1,2 @@
+c:\users\aegorchatov\documents\visual studio 2013\Projects\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe.config
+C:\Users\aegorchatov\Source\Repos\PhidgetApp\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe.config
