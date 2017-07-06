@@ -2,3 +2,15 @@ c:\users\aegorchatov\documents\visual studio 2013\Projects\PhidgetWPF\PhidgetWPF
 C:\Users\aegorchatov\Source\Repos\PhidgetApp\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe.config
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\PhidgetApp\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe.config
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe.config
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.pdb
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.csprojResolveAssemblyReference.cache
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\MainWindow.baml
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\MainWindow.g.cs
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\App.g.cs
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF_MarkupCompile.cache
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.g.resources
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.Properties.Resources.resources
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.csproj.GenerateResource.Cache
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.exe
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.pdb
