@@ -26,3 +26,4 @@ C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\Phid
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\GalaSoft.MvvmLight.Platform.xml
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.csprojResolveAssemblyReference.cache
