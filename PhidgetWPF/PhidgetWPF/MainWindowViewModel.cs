@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GalaSoft.MvvmLight;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,19 +7,8 @@ using System.Threading.Tasks;
 
 namespace PhidgetWPF
 {
-    class MainWindowViewModel : MainWindow
+    class MainWindowViewModel :  ViewModelBase
     {
-        //private int Width;
-        //public int _width
-        //{
-        //    get
-        //    {
-        //        return this.Width;
-        //    }
-        //    set
-        //    {
-        //        this.Width = value;
-        //    }
-        //}
+
     }
 }
