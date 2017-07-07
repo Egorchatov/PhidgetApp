@@ -4,7 +4,6 @@ C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\PhidgetApp\PhidgetWPF
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe.config
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.exe
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\bin\Debug\PhidgetWPF.pdb
-C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\PhidgetWPF.csprojResolveAssemblyReference.cache
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\MainWindow.baml
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\MainWindow.g.cs
 C:\Users\aegorchatov\Documents\Visual Studio 2013\Projects\Repos\PhidgetWPF\PhidgetWPF\obj\Debug\App.g.cs

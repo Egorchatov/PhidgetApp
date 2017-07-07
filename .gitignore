@@ -2,5 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PhidgetWPF/PhidjetWPF/bin
-/PhidgetWPF/PhidjetWPF/obj
+PhidgetWPF/PhidjetWPF/bin/
+PhidgetWPF/PhidjetWPF/obj/
