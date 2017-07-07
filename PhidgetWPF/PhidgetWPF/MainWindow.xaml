@@ -8,6 +8,7 @@
             <RowDefinition Height="120"/>
             <RowDefinition Height="90"/>
         </Grid.RowDefinitions>
+        
         <GroupBox Grid.Row="0" Header="Phidget info" Margin="12, 0">
             <StackPanel Orientation="Vertical">
                 <StackPanel Orientation="Horizontal">
@@ -17,10 +18,20 @@
                 <StackPanel Orientation="Horizontal">
                     <Separator BorderBrush="Gray" Width="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=ActualWidth}"/>
                 </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Version: " Margin="5,5"/>
+                    <TextBlock Text="Serial Number: " Margin="70,5"/>
+                </StackPanel>
+                <StackPanel>
+                    <TextBlock Text="Channel: " Margin="5,5"/>
+                </StackPanel>
             </StackPanel>
         </GroupBox>
+        
         <GroupBox Grid.Row="1" Header="Settings" Margin="12, 5">
-            
+            <Grid>
+                <Button Width="100" Height="30" Content="Turn On" IsEnabled="False"/> 
+            </Grid>
         </GroupBox>
     </Grid>
 </Window>
